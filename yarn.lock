@@ -4208,10 +4208,10 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.0.tgz#4ddcac3718d787cf9df0d1b7d15033925c8f29f2"
   integrity sha512-uX1KG+x9h5hIJsaKR9xHUeUraxf8IODOwq9JLNPq6BwB04a/xgpq3rcx47l5BZu5zBPlgD342tdke3Hom/nJRA==
 
-cypress@^15.4.0:
-  version "15.4.0"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-15.4.0.tgz#067c414830c98c561742a106d03813a5e0e82459"
-  integrity sha512-+GC/Y/LXAcaMCzfuM7vRx5okRmonceZbr0ORUAoOrZt/5n2eGK8yh04bok1bWSjZ32wRHrZESqkswQ6biArN5w==
+cypress@^15.5.0:
+  version "15.5.0"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-15.5.0.tgz#039c8549f623957a14e57adee46dbfabaabac741"
+  integrity sha512-7jXBsh5hTfjxr9QQONC2IbdTj0nxSyU8x4eiarMZBzXzCj3pedKviUx8JnLcE4vL8e0TsOzp70WSLRORjEssRA==
   dependencies:
     "@cypress/request" "^3.0.9"
     "@cypress/xvfb" "^1.2.4"
@@ -7973,11 +7973,6 @@ path-to-regexp@0.1.7:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
   integrity sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ==
-
-path-to-regexp@8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-8.2.0.tgz#73990cc29e57a3ff2a0d914095156df5db79e8b4"
-  integrity sha512-TdrF7fW9Rphjq4RjrW0Kp2AW0Ahwu9sRGTkS6bvDi0SCwZlEZYmcfDbEsTz8RVk0EHIS/Vd1bv3JhG+1xZuAyQ==
 
 path-to-regexp@8.3.0, path-to-regexp@^8.0.0:
   version "8.3.0"
